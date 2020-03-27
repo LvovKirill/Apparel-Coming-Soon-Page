@@ -77,7 +77,7 @@ button:hover {
 }
 .attribution{
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 #enteremail:invalid{
     border: 2px solid hsl(0, 93%, 68%);
